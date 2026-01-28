@@ -1,5 +1,5 @@
 ## 🚀 Retail Customer Segmentation & Recommendation System
-![Retail Customer Segmentation](image.png)
+
 
 ## 🌐 Overview
 This repository hosts a project that delves deep into the vibrant sector of online retail, focusing on a dataset from a UK-based retailer available at the [UCI Machine Learning Repository](https://archive.ics.uci.edu/dataset/352/online+retail). This dataset includes all transactions occurring between 2010 and 2011, providing a rich ground for developing powerful customer segmentation and recommendation systems to enhance marketing strategies and boost sales.
@@ -42,7 +42,4 @@ The dataset comprises various metrics related to online retail transactions. The
 3. **Install Dependencies**: Ensure all necessary Python libraries are installed for seamless execution.
 4. **Execution**: Run all cells in the notebook to witness the results and insights.
 
-## 🔗 Additional Resources
-- 🌐 **Kaggle Notebook**: If you're keen on a Kaggle environment, delve into the notebook [here](https://www.kaggle.com/code/farzadnekouei/customer-segmentation-recommendation-system).
-- 🌐 **Dataset Source**: Access the original dataset from the [UCI Machine Learning Repository](https://archive.ics.uci.edu/dataset/352/online+retail).
-- 🤝 **Connect on LinkedIn**: Have queries or looking for collaborations? Feel free to connect on [LinkedIn](https://linkedin.com/in/farzad-nekouei-7535aa53/).
+
